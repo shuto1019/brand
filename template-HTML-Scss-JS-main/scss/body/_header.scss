@@ -23,7 +23,6 @@
     gap: vw(49.96);
     @include sp(){
       justify-content: center;
-      gap: vw_sp(26.96);
     }
     .header_menu-title {
       font-size: vw(14);

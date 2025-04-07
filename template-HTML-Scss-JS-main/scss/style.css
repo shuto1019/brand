@@ -450,7 +450,6 @@ svg {
 @media screen and (max-width: 768px) {
   .header .header_menu {
     justify-content: center;
-    gap: 7.4888888889vw;
   }
 }
 .header .header_menu .header_menu-title {
